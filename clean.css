@@ -1,0 +1,102 @@
+header {
+    background-color: rgb(56, 59, 56);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    
+
+    font-family:'Courier New', Courier, monospace ;
+
+}
+
+.cleanab{
+    width: 800px;
+}
+.nabla-name {
+    font-family: "Nabla", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "EDPT" 100,
+      "EHLT" 12;
+  }
+.a {
+    color: rgb(172, 148, 51);
+    text-decoration: none;
+    
+}
+
+.a:hover{
+    color: lightgoldenrodyellow
+}
+h2 {
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
+body {
+    background-color: rgb(44, 44, 44);
+    color: rgb(255, 255, 255);
+    
+}
+.about1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 
+    1px 1px 0 #392b05,
+    3px 3px 0 #ffee06;
+}
+.contact {
+    text-align: center;
+    color:white;
+    text-shadow: 
+    1px 1px 0 #392b05,
+    3px 3px 0 #ffee06;
+}
+.services{
+    text-align: center;
+    text-shadow: 
+    1px 1px 0 #392b05,
+    3px 3px 0 #ffee06;
+}
+.serviceswork{
+    text-decoration: underline;
+   
+}
+._img {
+    position:absolute;
+    top: 200px;
+    right: 10px;
+    width: 250px;
+    height: 400px;
+}
+._img_{
+    position: fixed;
+    bottom: 10px;
+    width: 50px;
+    height: 50px;
+    right: 0px;
+
+}
+.mail{
+    text-decoration: none;
+    
+    color: white
+
+}
+.mail:hover{
+    color:grey
+}
+
+.hachi-maru-pop-regular {
+    font-family: "Hachi Maru Pop", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+footer {
+    text-align: center;
+}
